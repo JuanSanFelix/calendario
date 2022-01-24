@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-	color: white;
+	color: red;
 }
 
 div {
-  background-color: white;
+  background-color: red;
   border: black 1px solid;
   padding: 10px 30px;
   margin: 10px;
